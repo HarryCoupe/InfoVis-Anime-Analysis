@@ -1,0 +1,18 @@
+- Describe what was done to improve security
+
+- Why did i do them?
+
+- what would i do given more time?
+
+- Which services did i intall or remove?
+
+- what configurations did i change?
+
+
+
+
+
+
+
+
+
